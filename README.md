@@ -1,1 +1,1 @@
-This is a simple DBMS project.
+This is a DBMS project.
