@@ -1,1 +1,1 @@
-This is a DBMS project.
+this is a dbms project  about e learning platform
